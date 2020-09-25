@@ -8,10 +8,10 @@
 
 ### 题目列表
 
-- JavaScript 隐式类型转换
-- JavaScript 深度比较对象
-- JavaScript bind()、call()、apply() 的实现
-- JavaScript new() 的实现
-- 通过红绿灯控制理解异步操作
-- 多并发异步操作
+- [ ] JavaScript 隐式类型转换
+- [ ] JavaScript 深度比较对象
+- [ ] JavaScript bind()、call()、apply() 的实现
+- [ ] JavaScript new() 的实现
+- [ ] 通过红绿灯控制理解异步操作
+- [ ] 多并发异步操作
 
